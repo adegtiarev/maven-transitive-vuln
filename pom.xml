@@ -21,5 +21,10 @@
             <version>1.0.0.RELEASE</version>
         </dependency>
 
-    </dependencies>
+      <dependency>
+         <groupId xmlns="">org.bouncycastle</groupId>
+         <artifactId xmlns="">bcprov-jdk15on</artifactId>
+         <version xmlns="">1.64</version>
+      </dependency>
+   </dependencies>
 </project>
